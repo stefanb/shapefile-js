@@ -4,6 +4,12 @@
 [![devDependency Status](https://david-dm.org/calvinmetcalf/shapefile-js/dev-status.svg)](https://david-dm.org/calvinmetcalf/shapefile-js#info=devDependencies)
 [![peerDependency Status](https://david-dm.org/calvinmetcalf/shapefile-js/peer-status.svg)](https://david-dm.org/calvinmetcalf/shapefile-js#info=peerDependencies)
 
+stefanb's fork:
+[![Build Status](https://travis-ci.org/stefanb/shapefile-js.svg)](https://travis-ci.org/stefanb/shapefile-js)
+[![Dependency Status](https://david-dm.org/stefanb/shapefile-js.svg)](https://david-dm.org/stefanb/shapefile-js)
+[![devDependency Status](https://david-dm.org/stefanb/shapefile-js/dev-status.svg)](https://david-dm.org/stefanb/shapefile-js#info=devDependencies)
+[![peerDependency Status](https://david-dm.org/stefanb/shapefile-js/peer-status.svg)](https://david-dm.org/stefanb/shapefile-js#info=peerDependencies)
+
 Redoing all of this in modern JS. Promises, Typed Arrays, other hipster things, I wouldn't say it's based on [RandomEtc's version](https://github.com/RandomEtc/shapefile-js) as much as inspired by it as there is 0 code shared and I really only read the binary ajax part of his (hence why my function has the same name, they are otherwise not related). My sources were:
 
 - [wikipedia article](https://en.wikipedia.org/wiki/Shapefile)
