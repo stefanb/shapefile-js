@@ -8,7 +8,7 @@ stefanb's fork:
 [![Build Status](https://travis-ci.org/stefanb/shapefile-js.svg)](https://travis-ci.org/stefanb/shapefile-js)
 [![Dependency Status](https://david-dm.org/stefanb/shapefile-js/travis.svg)](https://david-dm.org/stefanb/shapefile-js/travis)
 [![devDependency Status](https://david-dm.org/stefanb/shapefile-js/travis/dev-status.svg)](https://david-dm.org/stefanb/shapefile-js/travis#info=devDependencies)
-[![peerDependencies Status](https://david-dm.org/stefanb/shapefile-js/travis/dev-status.svg)](https://david-dm.org/stefanb/shapefile-js/travis#info=peerDependencies)
+[![peerDependencies Status](https://david-dm.org/stefanb/shapefile-js/travis/peer-status.svg)](https://david-dm.org/stefanb/shapefile-js/travis#info=peerDependencies)
 
 Redoing all of this in modern JS. Promises, Typed Arrays, other hipster things, I wouldn't say it's based on [RandomEtc's version](https://github.com/RandomEtc/shapefile-js) as much as inspired by it as there is 0 code shared and I really only read the binary ajax part of his (hence why my function has the same name, they are otherwise not related). My sources were:
 
